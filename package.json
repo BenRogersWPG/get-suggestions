@@ -23,6 +23,6 @@
     "nightmare": "^3.0.2"
   },
   "devDependencies": {
-    "ava": "^5.1.0"
+    "ava": "^6.1.2"
   }
 }
